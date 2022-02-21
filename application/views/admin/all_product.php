@@ -82,7 +82,7 @@
                                     
                                     <td>
                                         <div class="pull-right">
-                                            <!--<a href="<?php //echo base_url();?>admin/editproduct/8" class="btn btn-info">Edit</a>-->
+                                            <a href="<?php //echo base_url();?>admin/editproduct/<?php echo $r->id;?>" class="btn btn-info">Edit</a>
                                             <button class="btn btn-danger btn-xs" onclick="deleteSingle(<?php echo $r->id;?>,'product')">Delete</button>
 
                                         </div>
