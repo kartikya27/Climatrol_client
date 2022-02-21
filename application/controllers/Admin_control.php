@@ -22,7 +22,9 @@ class Admin_control extends CI_Controller {
      }
      
      
-     ###   
+     ###  
+	## editproduct
+	
       public function contact(){
          
                 $data['contactDetails'] = $this->AdminModel->getDetails();
