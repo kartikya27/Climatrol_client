@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://projects.letsgolive.in/climatrol/';
+$config['base_url'] = 'https://portfolio.wrkva.xyz/climatrol/';
 
 /*
 |--------------------------------------------------------------------------
