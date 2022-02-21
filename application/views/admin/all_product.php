@@ -82,7 +82,7 @@
                                     
                                     <td>
                                         <div class="pull-right">
-                                            <a href="<?php echo base_url()?>Admin_control/editproduct/<?php echo $r->id;?>" class="btn btn-info">Edit</a>
+                                            <a data-toggle="modal" data-target="#edit<?php echo $r->id;?>" class="btn btn-primary btn-xs"" class="btn btn-info">Edit</a>
                                             <button class="btn btn-danger btn-xs" onclick="deleteSingle(<?php echo $r->id;?>,'product')">Delete</button>
 
                                         </div>
