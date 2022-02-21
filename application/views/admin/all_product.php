@@ -101,23 +101,23 @@
                     <div class="form-group">
                         <label>Title</label>
                           <input type="hidden" name="id" value="<?php echo $r->id;?>">
-                       <input name="title" type="text" class="form-control" value="<?php echo $r->product_name;?>" />
+                       <input name="product_name" type="text" class="form-control" value="<?php echo $r->product_name;?>" />
                     </div>
                     
                     <div class="form-group">
                         <label>Sub Title</label>
                          
-                       <input name="subTitle" type="text" class="form-control" value="<?php echo $r->short_dis;?>" />
+                       <input name="short_dis" type="text" class="form-control" value="<?php echo $r->short_dis;?>" />
                     </div>
                     
                     <div class="form-group">
                         <label>Text</label>
-                       <textarea style="height:200px" name="text" type="text" class="form-control" ><?php echo $r->product_dis; ?></textarea>
+                       <textarea style="height:200px" name="product_dis" type="text" class="form-control" ><?php echo $r->product_dis; ?></textarea>
                     </div>
                     <div class="form-group">
                         <label>Section</label>
                          
-                       <input name="section" type="text" readonly class="form-control" value="<?php echo $r->product_cat;?>" >
+                       <input name="product_cat" type="text" readonly class="form-control" value="<?php echo $r->product_cat;?>" >
                     </div>
                        
                             <button type="submit" name="" class="btn btn-primary w-25" id="editSlidersave">Save</button>
