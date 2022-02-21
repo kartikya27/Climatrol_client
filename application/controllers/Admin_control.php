@@ -26,7 +26,12 @@ class Admin_control extends CI_Controller {
 	## editProduct
 	  public function editProduct(){
             $id=$this->input->post('id');
-            $data=$this->input->post('');
+           	 $data['product_name']=$this->input->post('product_name');
+		$data['short_dis']=$this->input->post('short_dis');
+		  $data['product_dis']=$this->input->post('product_dis');
+		  
+		  
+		  
             $tablename = "product";
             $this->AdminModel->updateData($id,$tablename,$data);
             redirect('Admin_control/all_product');
