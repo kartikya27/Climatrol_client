@@ -184,6 +184,7 @@ public function InsrtProduct($data){
     }
     public function updateData($id,$tablename,$data){
     //   return $id;
+       $this->db->set($data);
         $this->db->where('id', $id);
 return $this->db->update($tablename, $data);
     }
