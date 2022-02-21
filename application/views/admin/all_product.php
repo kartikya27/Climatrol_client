@@ -90,7 +90,7 @@
           <div class="modal fade " id="edit<?php echo $r->id;?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
            <div class="modal-dialog" role="document">
             <div class="modal-content p-2">
-                <form action="editAboutUs" method="POST" enctype='multipart/form-data'>
+                <form action="editProduct" method="POST" enctype='multipart/form-data'>
                     <div class="modal-header">
                         <h4 class="modal-title" id="myModalLabel">Edit Product</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
@@ -107,24 +107,19 @@
                     <div class="form-group">
                         <label>Sub Title</label>
                          
-                       <input name="subTitle" type="text" class="form-control" value="<?php echo $r->subTitle;?>" />
+                       <input name="subTitle" type="text" class="form-control" value="<?php echo $r->short_dis;?>" />
                     </div>
                     
                     <div class="form-group">
                         <label>Text</label>
-                       <textarea style="height:200px" name="text" type="text" class="form-control" ><?php echo $r->text; ?></textarea>
+                       <textarea style="height:200px" name="text" type="text" class="form-control" ><?php echo $r->product_dis; ?></textarea>
                     </div>
                     <div class="form-group">
                         <label>Section</label>
                          
-                       <input name="section" type="text" readonly class="form-control" value="<?php echo $r->section;?>" >
+                       <input name="section" type="text" readonly class="form-control" value="<?php echo $r->product_cat;?>" >
                     </div>
-                        <div class="form-group">
-                        <label>Image (350 X 150)</label>
-                       <input name="img" type="file" class="form-control" value="<?php echo $r->img1;?>" />
-                    </div>
-                     
-                 
+                       
                             <button type="submit" name="" class="btn btn-primary w-25" id="editSlidersave">Save</button>
                     </div>
                    
