@@ -3,7 +3,7 @@
         <main class="main">
             <!-- Page Title -->
             <div class="page-title text-center">
-                <h2 class="title"> Enquiry Now </h2>
+                <h2 class="title"> Enquire Now </h2>
                 <p class="description light"> </p>
             </div>
             <!-- Page Title -->

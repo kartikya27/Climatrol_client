@@ -10,7 +10,7 @@
                                Manufacturers and suppliers of commercial refrigeration 
                                 </h4>
                                
-                                <p style="text-align:justify"> Climatrol Corporation is privately held Indian company with specialization in design, development & manufacturing of Refrigeration Equipments to meet different demand & application of our customers. Climatrol typically undertakes Cold Room & Frozen Room projects with Puf Panels, Condensing Units or Rack System. In house manufacturing capability of Puf Panels & Refrigeration Systems gives us an edge in highly competitive market. Equipments are designed and built to meet high ambient conditions year round. Our systems are widely used in Perishable Foods, Medicines, Chemicals, Ice Creams, Fruit & Vegetables, Controlled Atmosphere Chambers, Fruit, Ripening Systems & many more. Climatrol strength lies in Highly Technical Product lines and ease of servcice.</p>
+                                <p style="text-align:justify"> Climatrol Corporation is a privately held Indian company with specialization in design, development & manufacturing of Refrigeration Equipments to meet different demands & applications of our customers. Climatrol typically undertakes Cold Room & Frozen Room projects with Puf Panels, Condensing Units or Rack Systems. In house manufacturing capability of Puf Panels & Refrigeration Systems gives us an edge in highly competitive market. Equipments are designed and built to meet high ambient conditions year round. Our systems are widely used in Perishable Foods, Medicines, Chemicals, Ice Creams, Fruits & Vegetables, Controlled Atmosphere Chambers, Fruit, Ripening Systems & many more. Climatrol strength lies in Highly Technical Product lines and ease of servcice.</p>
                                 <a href="about?section=mission" class="btn btn-primary" role="button"> READ OUR MISSION </a>
                             </div>
                         </div>
@@ -78,13 +78,13 @@
                                 <h2 class="ceo-title color-title"> MESSAGE FROM OUR CEO </h2>
                                 <!--<h4 class="ceo-subtitle subtitle">MESSAGE FROM OUR CEO </h4>-->
                                 <p style="text-align:justify;font-style: italic;">
-The past two years have been the most challenging and life altering year, not only for us, but for the
+The past two years have been the most challenging and life altering years, not only for us, but for the
 whole world. It has also given us all an opportunity to slow down, introspect, and re-think our priorities.<br><br>
 As a nation, we now realize the value of being self-reliant and the need to focus on local and our
 domestic industry for quality goods and services. 
-At Climatrol, We have long produced most of our components in-house and thus relied on local vendors
+At Climatrol, we have long produced most of our components in-house and thus relied on local vendors
 rather than imports. And this truly has become our biggest strength now!<br><br>
-So, we too would like to reiterate India&#39;s need of increasing its capability to manufacture equipment
+So, we too would like to reiterate India&#39;s need of increasing its capability to manufacture equipments
 and products that are at par with the international standards. 
 We urge you to join us on this mission so that together we can lead the world into a healthy and
 prosperous future!<br>
@@ -109,7 +109,7 @@ We wish you a healthy and safe a year ahead!
                                 <img src="<?php echo base_url(); ?>images/img/cold-rooms-500x500.jpg.png" alt="technology-innovation" />
                             </div>
                             <h4 class="services-title-one subtitle">Cold Rooms</h4>
-                            <p style="min-height:135px;">Climatrol have in-house the manufacturing capability for refrigerated Cold rooms using Sandwich PUF Panels & Refrigeration units.</p>
+                            <p style="min-height:135px;">Climatrol has in-house  manufacturing capability for refrigerated Cold rooms using Sandwich PUF Panels & Refrigeration units.</p>
                             <a href="product_details?product=Cold%20Rooms" class="btn btn-default btn-normal">Read More</a>
                         </div>
                         <div class="col-md-3">
@@ -140,7 +140,7 @@ We wish you a healthy and safe a year ahead!
                                 <img src="<?php echo base_url(); ?>images/img/deep_f.jpg" alt="social-resposibility" />
                             </div>
                             <h4 class="services-title-one subtitle">Deep Freezers</h4>
-                            <p style="min-height:135px;">Climatrol Eutectic Deep Freezers, the next generation deep freezer with ease of use, reliable, robust, & long-lasting
+                            <p style="min-height:135px;">Climatrol Eutectic Deep Freezers,  Next generation Deep Freezer with ease of use, reliable, robust, & long-lasting
 
 </p>
                             <a href="product_details?product=Deep%20Freezers" class="btn btn-default btn-normal">Read More</a>
@@ -188,7 +188,7 @@ We wish you a healthy and safe a year ahead!
                     <div class="row process">
                         <div class="col-sm-6">
                             <h2 class="process-title title-2">Water Coolers</h2>
-                            <h4 class="process-subtitle subtitle-2"> We are one of the prominent manufacturers and suppliers of optimum quality Drinking Water Cooler
+                            <h4 class="process-subtitle subtitle-2"> We are one of the prominent manufacturers and suppliers of optimum quality Drinking Water Coolers.
                             </h4>
                             <p>
                    • Attains desired temperature in less time 
@@ -256,7 +256,7 @@ We wish you a healthy and safe a year ahead!
                 <div class="container">
                     <div class="section-title text-center">
                         <h2 class="title-services-other title-2">Industry - We Cater</h2>
-                        <h4 class="subtitle-services-other subtitle-2">Our Refrigeration Equipment meets the need of various industry</h4>
+                        <h4 class="subtitle-services-other subtitle-2">Our Refrigeration Equipments meet the need of various industries</h4>
                         <div class="spacer-50"> </div>
                     </div>
 
@@ -266,10 +266,10 @@ We wish you a healthy and safe a year ahead!
                                 <img src="images/service-icon9.png" alt="SHELL CHEMICALS" />
                             </div>
                             <div class="services-info">
-                                <h4 class="services-title-one subtitle">Banks and financial institution
+                                <h4 class="services-title-one subtitle">Banks and Financial institutions
 
 </h4>
-                                <p>Govt Banks, Insurance, NBFC, Post Office, Private Banks</p>
+                                <p>Banks, Insurance, NBFCs, Post Offices </p>
                             </div>
                         </div>
 
@@ -278,11 +278,11 @@ We wish you a healthy and safe a year ahead!
                                 <img src="images/service-icon2.png" alt="COMMERCIAL FUELS" />
                             </div>
                             <div class="services-info">
-                                <h4 class="services-title-one subtitle">Commercial</h4>
-                                <p>Amusement park,
+                                <h4 class="services-title-one subtitle">Commercial (Picture to be modified)</h4>
+                                <p>Amusement parks,
 Cinemas,
-Corporate office,
-Fuel Stations,</p>
+Corporate offices,
+Fuel Stations </p>
                             </div>
                         </div>
 
@@ -299,7 +299,7 @@ Army,
 BSF,
 Cantonments,
 Coast Guard,
-CRPF,</p>
+CRPF, CISF, MES, DRDO</p>
                             </div>
                         </div>
 
@@ -311,27 +311,11 @@ CRPF,</p>
                             </div>
                             <div class="services-info">
                                 <h4 class="services-title-one subtitle">Educational Institutions</h4>
-                                <p>College,
-Institute of Emminence,
-Institutes,
-School,
-University</p>
+                                <p>Schools, Colleges, Universities and Professional Institutes, IITs &amp; Regional Engineering Colleges</p>
                             </div>
                         </div>
 
-                        <div class="col-sm-4">
-                            <div class="img-box">
-                                <img src="images/service-icon13.png" alt="MARINE FUELS" />
-                            </div>
-                            <div class="services-info">
-                                <h4 class="services-title-one subtitle">Government</h4>
-                                <p>Central PWD,
-Millitary Engineering Service,
-Samabhai Samiti
-
-</p>
-                            </div>
-                        </div>
+                        
 
                         <div class="col-sm-4">
                             <div class="img-box">
@@ -339,12 +323,24 @@ Samabhai Samiti
                             </div>
                             <div class="services-info">
                                 <h4 class="services-title-one subtitle">Healthcare</h4>
-                                <p>Clinic,
-Defence Hospital,
-Govt Dispensery,
-Govt Hospital</p>
+                                <p>AIIMS, Government and Private Hospitals, Clinics &amp;, Dispensaries, Pharmacutical
+Organizations</p>
                             </div>
                         </div>
+                        
+                         <div class="col-sm-4">
+                            <div class="img-box">
+                                <img src="images/service-icon8.png" alt="SHELL TRADING" /></div>
+                            <div class="services-info">
+                                <h4 class="services-title-one subtitle">Service Provider</h4>
+                                <p>Cleaning contractor,
+Façade Cleaning,
+Facility Management</p>
+                            </div>
+                        </div>
+                        
+                        
+                        
 
                         <div class="clearfix spacer-70"></div>
 
@@ -361,68 +357,82 @@ Quick service restaurants</p>
                             </div>
                         </div>
 
-                        <div class="col-sm-4">
-                            <div class="img-box">
-                                <img src="images/service-icon10.png" alt="SHELL TRADING" /></div>
-                            <div class="services-info">
-                                <h4 class="services-title-one subtitle">Infrastructure</h4>
-                                <p>Airport,
-Development Authority,
-Indian Railways,
-Metro Rail</p>
-                            </div>
-                        </div>
-
-                        <div class="col-sm-4">
-                            <div class="img-box">
-                                <img src="images/service-icon11.png" alt="SHELL FOR SUPPLIERS" /></div>
-                            <div class="services-info">
-                                <h4 class="services-title-one subtitle">	
-IT/ITES</h4>
-                                <p>BPO,
-Hardware,
-Service Providers,
-Software</p>
-                            </div>
-                        </div>
-                          <div class="clearfix spacer-70"></div>
-                         <div class="col-sm-4">
-                            <div class="img-box">
-                                <img src="images/service-icon12.png" alt="SHELL TRADING" /></div>
-                            <div class="services-info">
-                                <h4 class="services-title-one subtitle">Endowment</h4>
-                                <p>Ashrams,
-Church,
-Gurudwara,
-Historical Monuments,
-Mosque</p>,
-                            </div>
-                        </div>
+<!--                        <div class="col-sm-4">-->
+<!--                            <div class="img-box">-->
+<!--                                <img src="images/service-icon10.png" alt="SHELL TRADING" /></div>-->
+<!--                            <div class="services-info">-->
+<!--                                <h4 class="services-title-one subtitle">Infrastructure</h4>-->
+<!--                                <p>Airport,-->
+<!--Development Authority,-->
+<!--Indian Railways,-->
+<!--Metro Rail</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
                         
-                         <div class="col-sm-4">
-                            <div class="img-box">
-                                <img src="images/service-icon8.png" alt="SHELL TRADING" /></div>
-                            <div class="services-info">
-                                <h4 class="services-title-one subtitle">Service Provider</h4>
-                                <p>Cleaning contractor,
-Façade Cleaning,
-Facility Management</p>
-                            </div>
-                        </div>
                         
                          <div class="col-sm-4">
                             <div class="img-box">
                                 <img src="images/service-icon1.png" alt="SHELL TRADING" /></div>
                             <div class="services-info">
                                 <h4 class="services-title-one subtitle">Manufacturing</h4>
-                                <p>Automotive - Ancilliary,
-Automotive - OEM,
-Cement,
+                                <p>Automotive-( OEMs and Ancilliaries),
+
+Cement Plants,
 Ceramics,
-Chemicals</p>
+Chemicals, Steel, Sugar Mills, Industrial OEMs</p>
+                            </div>
+                        </div>
+
+    <div class="col-sm-4">
+                            <div class="img-box">
+                                <img src="images/service-icon13.png" alt="MARINE FUELS" />
+                            </div>
+                            <div class="services-info">
+                                <h4 class="services-title-one subtitle">Government</h4>
+                                <p>Indian Railways, Metro Rail, Central Public Worls Department (CPWD), PWD, Ministry of Home Affairs,
+Ministry of HRD, State Police, Ministry Power, Airport
+
+Authority of India, BHEL, Bharat Electronics, Power Grid, NTPC, NHPC
+
+</p>
                             </div>
                         </div>
                         
+
+
+<!--                        <div class="col-sm-4">-->
+<!--                            <div class="img-box">-->
+<!--                                <img src="images/service-icon11.png" alt="SHELL FOR SUPPLIERS" /></div>-->
+<!--                            <div class="services-info">-->
+<!--                                <h4 class="services-title-one subtitle">	-->
+<!--IT/ITES</h4>-->
+<!--                                <p>BPO,-->
+<!--Hardware,-->
+<!--Service Providers,-->
+<!--Software</p>-->
+<!--                            </div>-->
+<!--                        </div>-->
+                        
+                        
+                          <div class="clearfix spacer-70"></div>
+<!--                         <div class="col-sm-4">-->
+<!--                            <div class="img-box">-->
+<!--                                <img src="images/service-icon12.png" alt="SHELL TRADING" /></div>-->
+<!--                            <div class="services-info">-->
+<!--                                <h4 class="services-title-one subtitle">Endowment</h4>-->
+<!--                                <p>Ashrams,-->
+<!--Church,-->
+<!--Gurudwara,-->
+<!--Historical Monuments,-->
+<!--Mosque</p>,-->
+<!--                            </div>-->
+<!--                        </div>-->
+                        
+                        
+                        
+                        
+                        
+                    
                         
                     </div>
 
@@ -602,14 +612,14 @@ h4, .h4, h4.heading-md {
 									<em class="fa fa-industry" aria-hidden="true"></em>
 								</div>
 								<h4>Manufacturing </h4>
-								<p style="color:#fff;text-align:justify;">We have latest computer-aided design systems and computer-aided manufacturing with CNC sheet metal presses, welding machines, Press brakes, Cannon PUF machines and in-house setup for Cooling and Condenser coils.</p>
+								<p style="color:#fff;text-align:justify;">We have latest computer-aided design systems and computer-aided manufacturing with CNC Sheet Metal Presses, Welding machines, Press Brakes, Cannon PUF machines and automated in-house setup for Cooling and Condenser coils.</p>
 							</div>
 							<div class="col-sm-6">
 								<div class="icon-box style-s4">
 									<em class="fa fa-bullhorn" aria-hidden="true"></em>
 								</div>
 								<h4>Vocal for Local </h4>
-								<p style="color:#fff;text-align:justify;"> At Climatrol, We have long produced most of our components in-house and thus relied on local vendors rather than imports. And this truly has become our biggest strength now!</p>
+								<p style="color:#fff;text-align:justify;"> At Climatrol, we have long produced most of our components in-house and thus relied on local vendors rather than imports, and this truly has become our biggest strength over a period of time!!</p>
 							</div>
 							<div class="gaps size-lg"></div>
 							<div class="col-sm-6 res-s-bttm">
@@ -617,14 +627,14 @@ h4, .h4, h4.heading-md {
 									<em class="fa fa-handshake-o " aria-hidden="true"></em>
 								</div>
 								<h4>International tie-ups</h4>
-								<p style="color:#fff;text-align:justify;">We are also the partner of Italy based BoxCold brand range of Cold-Rooms in India. We sell and provide support for their product and accessories.</p>
+								<p style="color:#fff;text-align:justify;">We are also the authorized distributor of Box Cold Italy, a global leading brand in the field of Cold-Room manufacturing. We sell and provide support for their product and accessories pan India..</p>
 							</div>
 							<div class="col-sm-6">
 								<div class="icon-box style-s4">
 									<em class="fa fa-cart-plus" aria-hidden="true"></em>
 								</div>
-								<h4>Delivery </h4>
-								<p style="color:#fff;text-align:justify;"> We have PAN-India network of distributor and service provider for after sales-service, support including installation, testing and commissioning.</p>
+								<h4>Sales &amp; Service Support </h4>
+								<p style="color:#fff;text-align:justify;"> We have PAN-India dealer network for sales and services of our products and equipments.</p>
 							</div>
 							</div>
 					</div>

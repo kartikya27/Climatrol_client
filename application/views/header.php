@@ -34,7 +34,7 @@
 
     <!-- Custom styles for this template -->
     <link href="css/style.css" rel="stylesheet"> 
-    
+    <!-- Latest compiled and minified JavaScript -->
 
 </head>
 
