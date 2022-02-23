@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
+	'hostname' => '153.92.6.161',
 	'username' => 'u745874161_climatrol_user',
 	'password' => 'Climatrol@123',
 	'database' => 'u745874161_climatrol',
