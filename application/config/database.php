@@ -6,8 +6,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'dbport' => '3306',
-	'hostname' => '153.92.6.148:3306',
+	'hostname' => 'https://auth-db160.hostinger.com:3306',
 	'username' => 'u745874161_climatrol_user',
 	'password' => 'Climatrol@123',
 	'database' => 'u745874161_climatrol',
