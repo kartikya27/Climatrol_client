@@ -6,7 +6,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'sql160.main-hosting.eu:3306',
+	'hostname' => 'sql160.main-hosting.eu',
 	'username' => 'u745874161_climatrol_user',
 	'password' => 'Climatrol@123',
 	'database' => 'u745874161_climatrol',
